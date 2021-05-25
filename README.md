@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sergio Eduardo Castro Ceballos
 - 👀 I’m interested in Web programming, Robotics, Technical Design, IoT, UI/UX, Fitness, Extreme Sports.
 - 🌱 I’m currently learning Interaktive Systeme (IoT) in Germany.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any web programming related project.
 - 📫 You can reach me through my email or my personal portfolio.
 
 <!---
